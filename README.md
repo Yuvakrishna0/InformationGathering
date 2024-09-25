@@ -32,8 +32,6 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## Ip2Location:
 ![368679914-0ccc75d6-00ef-4c86-a674-36a132b749a1](https://github.com/user-attachments/assets/766e5abc-7e08-4bad-a9b8-26c94e9d1452)
 
-## Ping:
-![368680355-6d826394-3110-48c1-8dbc-d6fccf81003c](https://github.com/user-attachments/assets/4fd55960-9978-49aa-ba61-c6495655de68)
 
 ## Web Archive:
 ![368680581-dac3d094-f153-4bc3-807d-52fe11d6ea0c](https://github.com/user-attachments/assets/ecf8e27e-7d90-4620-8008-b67dc090b7e4)
